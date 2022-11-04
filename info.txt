@@ -1,0 +1,8 @@
+{
+    name: Jasurbek,
+    surname: Turgunov,
+    email: jasurbekturgunov25@gmail.com,
+    telegram: @jasurbek_turgunov,
+    job: Full stack javascript web developer,
+}
+
